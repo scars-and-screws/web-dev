@@ -102,12 +102,12 @@ web-dev/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/scars-and-screws/web-dev.git
+   git clone <repository-url>
    ```
 
 2. **Navigate to a project folder**
    ```bash
-   cd web-dev/basic
+   cd <repository-name>/basic
    ```
 
 3. **Open in browser**
